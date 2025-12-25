@@ -1,2 +1,2 @@
-# Python day 10 $ 11
+# Python day 10 & 11
 
