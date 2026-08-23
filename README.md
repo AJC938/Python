@@ -1,20 +1,39 @@
-# Python Practice
+# Python — Projects & Practice
 
-A small collection of Python exercises created during university learning and programming practice.
+A collection of Python learning work, university exercises, and selected engineering projects.
 
-## Scope
+## Featured Project
 
-The repository contains exploratory Python work focused on building familiarity with:
+### Match Ticket Booking System
 
-- Python syntax and control flow
-- Functions
+A Python-based **Data Structures & Algorithms** project that simulates high-demand football ticket booking and evaluates how algorithmic choices affect system performance.
+
+**Highlights:**
+- Custom Hash Table with separate chaining and resizing
+- Binary Min-Heap Priority Queue for tiered booking requests
+- 2D seat-grid representation
+- Merge Sort vs. Bubble Sort benchmarking
+- Linear Search vs. Binary Search vs. Hash Search
+- Booking simulation and operational KPIs
+- Tkinter desktop GUI
+
+→ **[Open the Match Ticket Booking System](Match-Ticket-Booking-System/)**
+
+## Repository Scope
+
+This repository contains two kinds of Python work:
+
+1. **Learning & Practice** — exercises and smaller university programming work.
+2. **Engineering Projects** — more complete applications where Python is used to demonstrate software design, algorithms, data structures, and problem solving.
+
+## Focus Areas
+
+- Python programming
 - Data structures
+- Algorithms & complexity analysis
 - Problem solving
-- Small programming exercises
-
-## Status
-
-This is a **learning repository**, not a primary portfolio project. It is kept as a record of programming practice while larger engineering projects demonstrate the main portfolio work.
+- GUI development with Tkinter
+- Simulation and performance benchmarking
 
 ## Author
 
